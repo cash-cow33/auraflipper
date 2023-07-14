@@ -26,6 +26,10 @@ Ah flipping 😐
 ### Is this bannable?
 No
 
-
  ### Credits:
 Big thanks to the respective authors of NotEnoughUpdates for various pieces of code used in this mod.
+
+## Some of my flips
+https://cdn.discordapp.com/attachments/1085639677672964277/1129522816790835360/image.png
+https://cdn.discordapp.com/attachments/1085639677672964277/1129523415687110738/image.png
+https://cdn.discordapp.com/attachments/1085639677672964277/1129523603889717380/image.png
