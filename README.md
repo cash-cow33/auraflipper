@@ -12,7 +12,7 @@
 </p>
 
 ## Download:
-https://github.com/cash-cow32/auraflipper/releases/tag/release
+https://github.com/cash-cow32/auraflipper/releases/latest
 
 ### What it does:
 Ah flipping 😐
